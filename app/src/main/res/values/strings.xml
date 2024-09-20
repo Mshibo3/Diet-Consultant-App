@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">DietConsultantApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="dayman">
+
+        <b>Day 1</b>\n
+<b>Day 2</b>\n\n
+Smoked salmon and egg on a whole grain bagel with a portion of watercress, a medium low fat mocha drink.\n\n
+<b>Day 3</b>\n\n
+A portion of hummus and raw vegetables for dipping, two oatcakes.\n\n
+<b>Day 4</b>\n\n
+A bowl of bean and vegetable soup drizzled with extra virgin olive oil, 1 slice of whole grain seeded bread, a portion of raw, fa side lightly steamed vegetables, such as carrots, broccoli, or garden peas, and a portion of fruit.\n\n
+<b>Day 5</b>\n\n
+Chocolate n’ice cream\n\n
+<b>Day 6</b>\n\n
+Greek mac and cheese casserole, a portion of steamed broccoli, asparagus, or another green vegetable. Greek yogurt with berries and nuts for dessert.\n\n
+
+
+<b>Day 7</b>\n\n
+<i>Breakfast</i>\n
+Berry smoothie with protein powder.\n\n
+<i> Morning Snack</i>\n\n
+Two rice cakes spread with 2 tablespoons (tbsp) peanut butter and topped with apple slices.\n\n
+<i>Lunch</i>\n
+Tuna salad sandwich on whole grain bread, a small bag of root vegetable chips, sliced crudités, such as carrots or bell peppers, and a banana.\n\n
+<i>Afternoon snack</i>\n\n
+Raspberry frozen yogurt pop.\n\n
+<i>Dinner</i>\n\n
+Salmon with pineapple-avocado salsa and a portion of leafy greens. Cocoa chia seed pudding, a handful of strawberries, and an oat milk hot drink before bed.\n\n
+
+<i>Breakfast</i>\n\n
+<i>Morning Snack</i>\n\n
+Oatmeal with banana, pumpkin seeds, and a drizzle of maple syrup, coffee with low fat milk.\n\n
+
+<i>Lunch</i>\n\n
+Chocolate peanut butter cup, apple slices.\n\n
+
+<i> Afternoon snack</i>\n\n
+Mashed avocado, roast turkey, and chopped tomatoes on two slices of whole grain toast, topped with extra virgin olive oil, shelled hemp seeds, and cayenne pepper, a handful of blueberries.\n\n
+
+ <i>Dinner</i>\n\n
+A portion of hummus with raw vegetables for dipping and two oatcakes.\n\n
+
+<i>Breakfast</i>\n\n
+Chicken and vegetable stir fry served with 1 cup of steamed brown rice, two squares of dark chocolate, and a handful of walnuts.\n\n
+
+<i>Morning Snack</i>\n\n
+<i>Lunch</i>\n\n
+Apple and peanut butter on a wholewheat English muffin, 1 cup of low fat milk.\n\n
+
+<i>fternoon snack</i>\n\n
+Carrot Cake Energy Bar.\n\n
+
+<i>Dinner</i>\n\n
+One medium baked potato with 100 grams (g) beef chili and 28 g creme fraiche, a side serving of green beans or peas.\n\n
+
+<i>Breakfast</i>\n\n
+A boiled egg, two oatcakes, and a portion of arugula.\n\n
+
+<i>Morning Snack</i>\n\n
+Veggie Korean bibimbap, kombucha drink.\n\n
+
+<i>Lunch</i>\n\n
+<i>Afternoon snack</i>\n\n
+40 g granola, 100 g unsweetened Greek yogurt, 100 g blueberries, 3 tbsp flax seeds, coffee with low fat milk.\n\n
+
+<i>Dinner</i>\n\n
+Tofu “egg” salad stuffed tomato.\n\n
+
+<i>Breakfast</i>\n\n
+Tuna salad sandwich on whole grain bread with plenty of salad vegetables, such as cucumbers, peppers, diced tomatoes, and lettuce, a banana, a handful of nuts, one sliced orange, a cup of lemon and ginger herbal tea.\n\n
+
+<i>Morning Snack</i>\n\n
+Vegan oat chocolate chip cookie, apple slices.\n\n
+
+<i>Lunch</i>\n\n
+Rotisserie chicken tacos with pineapple salsa, a small baked sweet potato, a portion of arugula, two squares of dark chocolate with a handful of walnuts.
+
+<i>Afternoon snack</i>\n\n
+<i>Dinner</i>\n\n
+Two quinoa edamame egg muffins, a portion of grilled tomatoes and mushrooms drizzled with olive oil, a glass of almond milk.
+
+<i>Breakfast</i>\n\n
+Two rice cakes spread with 2 tbsp peanut butter and sliced banana.
+
+<i>Morning Snack</i>\n\n
+Slow cooker black bean soup, a portion of watercress, roasted squash with paprika and rosemary.
+
+<i>Lunch</i>\n\n
+Lemon, pistachio and berry frozen yogurt bark.\n\n
+
+<i>Afternoon snack</i>\n\n
+One medium baked potato, 100 g chili, 28 g creme fraiche, a portion of leafy greens, three squares of dark chocolate with a handful of walnuts.\n\n
+
+<i>Dinner</i>\n\n
+<i>Breakfast</i>\n\n
+Sardines on two slices of whole grain toast with spread, a portion of fresh spinach, medium low fat mocha drink\n\n
+
+<i>Morning Snack</i>\n\n
+One quarter cup Brazil nuts and a banana\n\n
+
+<i>Lunch</i>\n\n
+A grilled chicken fillet with 1 cup cooked broccoli, half a cup of cooked carrots, one corn on the cob, and an orange.\n\n
+
+<i>Afternoon snack</i>\n\n
+A slice of spinach and tomato frittata and one serving of green olives, kombucha drink.\n\n
+
+<i>Dinner</i>\n\n
+Slow cooker sweet potato curry served with one cup of cauliflower rice, one wheat paratha, a satsuma.\n\n
+
+    </string>
+</resources>

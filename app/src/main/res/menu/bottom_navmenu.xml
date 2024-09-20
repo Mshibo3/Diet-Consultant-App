@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item android:title="Profile"
+          android:id="@+id/profile"
+          android:icon="@drawable/ic_baseline_account_box_24"
+        />
+    <item android:title="Chat"
+        android:id="@+id/myplan"
+        android:icon="@drawable/ic_baseline_chat_24"
+        />
+    <item android:title="Favourite"
+        android:id="@+id/support"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        />
+</menu>

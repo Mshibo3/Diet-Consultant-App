@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView4" type="id"/>
+    <item name="user_Fullname" type="id"/>
+    <item name="user_Cell" type="id"/>
+    <item name="userEmailAdress" type="id"/>
+    <item name="user_Password" type="id"/>
+    <item name="user_Height" type="id"/>
+    <item name="user_Weight" type="id"/>
+    <item name="user_Age" type="id"/>
+    <item name="user_Male" type="id"/>
+    <item name="user_Female" type="id"/>
+    <item name="activity_drop" type="id"/>
+    <item name="drop_items" type="id"/>
+    <item name="btn_SignUp" type="id"/>
+</resources>

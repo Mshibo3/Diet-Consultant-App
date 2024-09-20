@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034117984708",
+    "firebase_url": "https://diet-consultant-app-d46db-default-rtdb.firebaseio.com",
+    "project_id": "diet-consultant-app-d46db",
+    "storage_bucket": "diet-consultant-app-d46db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034117984708:android:fafaeee3804932d4e37491",
+        "android_client_info": {
+          "package_name": "com.example.dietconsultantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034117984708-9c68isei1e0heuvqt8qh6kalt6325cdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-8ggHS8hgz2vIthJq4rD_nCiJGbIqQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034117984708-9c68isei1e0heuvqt8qh6kalt6325cdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

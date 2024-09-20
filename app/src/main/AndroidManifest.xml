@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:focusableInTouchMode="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DietConsultantApp"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".Tips"
+            android:exported="false" />
+        <activity
+            android:name=".Videos"
+            android:exported="false" />
+        <activity
+            android:name=".sevendays_womanplan"
+            android:exported="false" />
+        <activity
+            android:name=".sevendays_manplan"
+            android:exported="false" />
+        <activity
+            android:name=".WeekPlan"
+            android:exported="false" />
+        <activity
+            android:name=".bmicalculator"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="true" />
+        <activity
+            android:name=".Calculator"
+            android:exported="false" />
+        <activity
+            android:name=".Support"
+            android:exported="false" />
+        <activity
+            android:name=".Myplan"
+            android:exported="false"
+            android:focusableInTouchMode="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".home_screen"
+            android:exported="false" />
+        <activity
+            android:name=".forgot_password"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest>
